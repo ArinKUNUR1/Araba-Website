@@ -11,7 +11,7 @@
   height: 100vh;  
   padding-left: 8%;
   padding-right: 8%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)),url(images\ \(3\).jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)),url(img/bg.png);
   background-position: center;
   background-size: cover;
 }
@@ -129,17 +129,17 @@ h1 {
 }
 
 .card.card-1 {
-    background-image: url(images.jpg);
+    background-image: url(img/pic-1.png);
 }
 
 .card.card-2 {
-    background-image: url(pexels-photo-358070.jpeg);
+    background-image: url(img/pic-2.png);
 }
 
 .card.card-3 {
-    background-image: url(images\ \(1\).jpg);
+    background-image: url(img/pic-3.png);
 }
 
 .card.card-4 {
-    background-image: url(pexels-mike-b-120049.jpg);
+    background-image: url(img/pic-4.png);
 }
